@@ -29,13 +29,16 @@ this Software support All operating System
 - IOS
 - Desktop
 - Web
-## Admin Screenshots
+##  Screenshots
 
- - secreen shot1
- ![App Screenshot](https://github.com/Learn2Earn-Team/Protection-Cops/Screenshot/1.PNG)
-![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-2.PNG)
-![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-3.PNG)
-![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-4.PNG)
+
+ ![App Screenshot](Travel/mobile1.png)
+  ![App Screenshot](Travel/mobile2.png)
+   ![App Screenshot](Travel/mobile3.png)
+    ![App Screenshot](Travel/mobile4.png)
+     ![App Screenshot](Travel/mobile5.png)
+      ![App Screenshot](Travel/mobile6.png)
+       ![App Screenshot](Travel/mobile7.png)
 
 ## Technologies & Lnaguages 
 
